@@ -7,3 +7,9 @@
 #   ["Action", "Comedy", "Drama", "Horror"].each do |genre_name|
 #     MovieGenre.find_or_create_by!(name: genre_name)
 #   end
+Greeting.create(message: 'Hi!');
+Greeting.create(message: 'Hello!');
+Greeting.create(message: 'Bonjour!');
+Greeting.create(message: 'Salut!');
+Greeting.create(message: 'Coucou!');
+Greeting.create(message: 'Ca va!');
