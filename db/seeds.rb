@@ -12,4 +12,3 @@ Greeting.create(message: 'Hello!');
 Greeting.create(message: 'Bonjour!');
 Greeting.create(message: 'Salut!');
 Greeting.create(message: 'Coucou!');
-Greeting.create(message: 'Ca va!');
